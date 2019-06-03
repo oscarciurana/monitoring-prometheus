@@ -16,12 +16,18 @@ Exporters
 # [Grafana](https://grafana.com/)
 
 
-[PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/#querying-prometheus)
+- [PromQL](https://prometheus.io/docs/prometheus/latest/querying/basics/#querying-prometheus)
+- [Sample dashboards](https://grafana.com/dashboards)
 
-[Sample dashboards](https://grafana.com/dashboards)
 
 
 # Prometheus Client Library
 
 - [Client libraries](https://prometheus.io/docs/instrumenting/clientlibs/#client-libraries)
 - [Metric types](https://prometheus.io/docs/concepts/metric_types/#metric-types)
+
+
+# Cloud Hosted Alternatives
+
+- [DataDog](https://docs.datadoghq.com/integrations/prometheus/)
+
